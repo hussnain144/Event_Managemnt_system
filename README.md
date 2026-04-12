@@ -1,5 +1,3 @@
-Here is a professional README.md template in English. You can copy and paste this directly into your file.
-
 📅 Event Management System
 A comprehensive web-based solution designed to streamline event planning, registration, and attendee management.
 
