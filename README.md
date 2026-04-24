@@ -37,7 +37,7 @@ Plaintext
 Clone the repository:
 
 Bash
-git clone https://github.com/hussnain144/Event_Management_System.git
+git clone [https://github.com/hussnain144/Event_Management_System.git](https://github.com/hussnain144/Event_Managemnt_system)
 Database Configuration:
 
 Import the .sql file provided in the database/ folder into your local server (e.g., phpMyAdmin).
