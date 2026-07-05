@@ -51,7 +51,7 @@ Place the folder in your local server directory (like htdocs for XAMPP).
 Open your browser and navigate to localhost/Event_Management_System.
 
 🚀 Future Enhancements
-Integration of a Payment Gateway (Stripe/PayPal).
+Integration of a Payment Gateway (Stripe/PayPal,bank ).
 
 Email notification system for booking confirmations.
 
